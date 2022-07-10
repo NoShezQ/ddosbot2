@@ -1,0 +1,2 @@
+# ddosbot2
+ddospowerfull
